@@ -1,0 +1,11 @@
+C:\Users\João\Desktop\POO\Atividade 3 - Encapsulamento\Atividade 3 - Encapsulamento\bin\Debug\netcoreapp3.1\Atividade 3 - Encapsulamento.exe
+C:\Users\João\Desktop\POO\Atividade 3 - Encapsulamento\Atividade 3 - Encapsulamento\bin\Debug\netcoreapp3.1\Atividade 3 - Encapsulamento.deps.json
+C:\Users\João\Desktop\POO\Atividade 3 - Encapsulamento\Atividade 3 - Encapsulamento\bin\Debug\netcoreapp3.1\Atividade 3 - Encapsulamento.runtimeconfig.json
+C:\Users\João\Desktop\POO\Atividade 3 - Encapsulamento\Atividade 3 - Encapsulamento\bin\Debug\netcoreapp3.1\Atividade 3 - Encapsulamento.runtimeconfig.dev.json
+C:\Users\João\Desktop\POO\Atividade 3 - Encapsulamento\Atividade 3 - Encapsulamento\bin\Debug\netcoreapp3.1\Atividade 3 - Encapsulamento.dll
+C:\Users\João\Desktop\POO\Atividade 3 - Encapsulamento\Atividade 3 - Encapsulamento\bin\Debug\netcoreapp3.1\Atividade 3 - Encapsulamento.pdb
+C:\Users\João\Desktop\POO\Atividade 3 - Encapsulamento\Atividade 3 - Encapsulamento\obj\Debug\netcoreapp3.1\Atividade 3 - Encapsulamento.csprojAssemblyReference.cache
+C:\Users\João\Desktop\POO\Atividade 3 - Encapsulamento\Atividade 3 - Encapsulamento\obj\Debug\netcoreapp3.1\Atividade 3 - Encapsulamento.AssemblyInfoInputs.cache
+C:\Users\João\Desktop\POO\Atividade 3 - Encapsulamento\Atividade 3 - Encapsulamento\obj\Debug\netcoreapp3.1\Atividade 3 - Encapsulamento.AssemblyInfo.cs
+C:\Users\João\Desktop\POO\Atividade 3 - Encapsulamento\Atividade 3 - Encapsulamento\obj\Debug\netcoreapp3.1\Atividade 3 - Encapsulamento.dll
+C:\Users\João\Desktop\POO\Atividade 3 - Encapsulamento\Atividade 3 - Encapsulamento\obj\Debug\netcoreapp3.1\Atividade 3 - Encapsulamento.pdb
